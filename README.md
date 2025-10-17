@@ -9,8 +9,7 @@
 ###  Security Tools
 - **Discord RAT** - Remote Administration Tool with extensive capabilities
 - **Keylogger** - Stealthy keystroke monitoring with Discord webhook integration
-- **Browser Data Stealer** - Extract passwords, cookies, and browsing history
-- **Telegram Session Stealer** - Capture Telegram authentication sessions
+
 
 ###  Attack Vectors
 - **Ransomware Builder** - Create customizable file encryption malware
