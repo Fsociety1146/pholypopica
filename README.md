@@ -2,7 +2,6 @@
 ![Project Screenshot](screenshots/11.png)
 # the PoC 
 ###  OSINT & Reconnaissance
-- **Phone Number Intelligence** - Extract carrier info, location, and social media profiles
 - **IP Address Analysis** - Detailed router information and network scanning
 - **Google Dork Generator** - Automated search queries for vulnerability discovery
 - **Network Device Discovery** - Scan and identify devices on local network
@@ -10,7 +9,6 @@
 ###  Security Tools
 - **Discord RAT** - Remote Administration Tool with extensive capabilities
 - **Keylogger** - Stealthy keystroke monitoring with Discord webhook integration
-- **WiFi Password Extractor** - Recover saved wireless network credentials
 - **Browser Data Stealer** - Extract passwords, cookies, and browsing history
 - **Telegram Session Stealer** - Capture Telegram authentication sessions
 
